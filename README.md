@@ -331,9 +331,6 @@ Fill in:
 
 - Admin Username/Password
 
-![53](https://github.com/user-attachments/assets/10a15aaf-33e3-4e75-9dc4-148e5ffb922e)
-
-
 Step 17: Complete osTicket Installation
 
 - In the browser installer:
